@@ -1,0 +1,2 @@
+# scoreboard
+scoreboard solo work
